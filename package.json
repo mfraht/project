@@ -1,0 +1,21 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "This is my first Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon demo2_server.js"
+  },
+  "keywords": [
+    "My",
+    "project",
+    "Learning"
+  ],
+  "author": "Mohamed F Ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12"
+  }
+}
